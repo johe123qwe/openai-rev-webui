@@ -25,19 +25,19 @@ venv\Scripts\activate
 ```shell
 pip install -r requirements.txt
 ```
-6. 设置环境变量
+6. set environment variables
 ```shell
 cp .env.example .env
 ```
 
 7. replace "YOUR_TOKEN" to your "accessToken"
 
-8. 
+8. install dependencies
 ```shell
 pip install -r requirement.txt
 ```
 
-9. 
+9. start
 ```shell
 streamlit run streamlit_app.py
 ```
