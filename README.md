@@ -44,6 +44,7 @@ streamlit run streamlit_app.py
 
 ## Credits
 - [ChatGPT](https://chat.openai.com/chat) from [OpenAI](https://openai.com)
+- [revChatGPT](https://github.com/acheong08/ChatGPT)
 
 ## License
 This project is released under the terms of the GPL 2.0 license. For more information, see the [LICENSE](LICENSE) file included in the repository.
