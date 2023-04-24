@@ -5,7 +5,7 @@
 ## how to use
 1. login [chatgpt](https://chat.openai.com/)
 
-2. access[chatgpt-session](https://chat.openai.com/api/auth/session)， get your **accessToken**
+2. access [chatgpt-session](https://chat.openai.com/api/auth/session)， get your **accessToken**
 
 3. Create a virtual environment:
 ```shell
