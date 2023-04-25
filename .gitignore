@@ -4,5 +4,5 @@ __pycache__
 .DS_Store
 /usage_logs
 venv
-data.json
 test.py
+data.json
