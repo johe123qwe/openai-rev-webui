@@ -21,12 +21,12 @@ chatbot = Chatbot(config={
 })
 
 def read_json():
-    with open('data.json') as f:
+    with open('./data/data.json') as f:
         data = json.load(f)
     return data
 
 def write_json(data):
-    with open('data.json', 'w') as f:
+    with open('./data/data.json', 'w') as f:
         json.dump(data, f, indent=4)
 
 def chatgpt_rev(question:str)->str:
