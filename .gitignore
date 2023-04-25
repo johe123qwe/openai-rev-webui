@@ -5,4 +5,4 @@ __pycache__
 /usage_logs
 venv
 test.py
-data.json
+/data
